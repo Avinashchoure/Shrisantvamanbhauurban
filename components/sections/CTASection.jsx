@@ -39,7 +39,7 @@ export default function CTASection() {
               <ArrowRight size={20} />
             </Button>
             <Button
-              href="tel:+9881845484"
+              href="tel:9881845484"
               variant="outline"
               size="lg"
               className="bg-white/20"

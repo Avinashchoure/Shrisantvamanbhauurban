@@ -317,7 +317,7 @@ export default function SavingsPage() {
                       {t("common.applyNow")}
                       <ArrowRight size={18} />
                     </Button>
-                    <Button href="tel:+9881845484" variant="secondary" className="px-4">
+                    <Button href="tel:9881845484" variant="secondary" className="px-4">
                       <Phone size={18} />
                     </Button>
                   </div>
