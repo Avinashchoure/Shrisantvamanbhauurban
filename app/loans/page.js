@@ -519,7 +519,7 @@ export default function LoansPage() {
                         {t("common.applyNow")}
                         <ArrowRight size={18} />
                       </Button>
-                      <Button href="tel:+911234567890" variant="secondary">
+                      <Button href="tel:+9881845484" variant="secondary">
                         <Phone size={18} />
                         {language === "en" ? "Call Now" : "आता कॉल करा"}
                       </Button>
