@@ -85,7 +85,9 @@ export default function BranchSection() {
 
                 <div className="flex items-center gap-3 text-gray-600 dark:text-gray-400">
                   <Phone size={20} className="text-amber-500" />
-                  <p>{branch.phone}</p>
+                  <a href="tel:+919881845484" className="hover:text-amber-500 transition-colors">
+                    {branch.phone}
+                  </a>
                 </div>
 
                 <div className="flex items-center gap-3 text-gray-600 dark:text-gray-400">

@@ -69,7 +69,7 @@ export default function ContactPage() {
         language === "en"
           ? "Main Road, Near Bus Stand, Patoda, Dist. Beed, Maharashtra - 414204"
           : "मुख्य रस्ता, बस स्टँड जवळ, पाटोदा, जि. बीड, महाराष्ट्र - ४१४२०४",
-      phone: ["+ 91 9881845484", "+91 9876543210"],
+      phone: ["+ 91 9881845484", "02444-295777"],
       email: "vamanbhaus@gmail.com",
       isMain: true,
     },
